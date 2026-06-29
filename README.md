@@ -16,7 +16,7 @@ Görüntü yüklemeden video işlemeye, filtrelerden histogram analizine kadar 1
 |---|--------|------|--------|
 | 01 | [01_open_image](./01_open_image) | Görüntü okuma ve gösterme | `temel` |
 | 02 | [02_video_play](./02_video_play) | Video dosyalarını okuma ve oynatma | `temel` |
-| 03 | [03_video_camera](./03_video_camera) | Kamera erişimi ve video kaydı | `temel` |
+| 03 | [03_video_real_camera](./03_video_camera) | Kamera erişimi ve video kaydı | `temel` |
 | 04 | [04_resize_crop](./04_resize_crop) | Yeniden boyutlandırma ve kırpma | `temel` |
 | 05 | [05_shape_text](./05_shape_text) | Görüntü üzerine şekil ve yazı ekleme | `çizim` |
 | 06 | [06_joining_images](./06_joining_images) | Birden fazla görüntüyü birleştirme | `çizim` |
